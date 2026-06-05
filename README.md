@@ -20,7 +20,7 @@
 ### 🚀 About Me
 
 - 🏆 **Certifications:** Certified with **Distinction** in Advanced AI by **KAUST Academy**, and Data Science by the **University of Michigan**.
-- 💻 **Featured Projects:** Architected **Lytrex** & **Watheeq** (Automated Cybersecurity GRC platforms), engineered **Qtweets** (Academic Networking), and integrated sync services for **Rawa**.
+- 💻 **Featured Projects:** Architected **Watheeq** (Automated Cybersecurity GRC platforms), engineered **Qtweets** (Academic Networking).
 - 🌱 **Current Focus:** Building robust integrations between scalable web applications and Agentic AI / LLMs.
 - ⚡ **Engineering Philosophy:** Committed to leveraging data-driven methodologies to deploy secure, high-performance production applications.
 
@@ -72,15 +72,3 @@
   <img src="https://img.shields.io/badge/n8n-%23FF6D5W.svg?style=for-the-badge&logo=n8n&logoColor=white" alt="n8n" />
 </p>
 
----
-
-### 📊 GitHub Stats
-
-<p align="center">
-  <a href="https://github.com/basil960">
-    <img src="https://github-readme-stats.vercel.app/api?username=basil960&show_icons=true&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF&icon_color=58A6FF" alt="Basel's GitHub Stats" />
-  </a>
-  <a href="https://github.com/basil960">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=basil960&layout=compact&theme=radical&hide_border=true&bg_color=0D1117&text_color=FFFFFF" alt="Top Languages" />
-  </a>
-</p>
