@@ -7,7 +7,7 @@
   <a href="https://www.linkedin.com/in/basel-alhumaily-7b7520357/" target="_blank">
     <img src="https://img.shields.io/badge/-LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
-  <a href="bih.sa" target="_blank">
+  <a href="https://bih.sa/" target="_blank">
     <img src="https://img.shields.io/badge/-Portfolio-000000?style=for-the-badge&logo=About.me&logoColor=white" alt="Portfolio" />
   </a>
   <a href="mailto:ubaselu@gmail.com">
